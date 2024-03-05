@@ -14,7 +14,6 @@
 ![Screenshot_20240305_215324](https://github.com/Darshan6069/platformconverter/assets/138776334/dcd924a7-4a17-420d-a455-859f4c63f201)
 ![Screenshot_20240305_215315](https://github.com/Darshan6069/platformconverter/assets/138776334/7333c432-5c13-4663-bbac-08270a5cfc32)
 ![Screenshot_20240305_215309](https://github.com/Darshan6069/platformconverter/assets/138776334/92a01a94-383c-47f2-aa77-4d093efb3c0a)
-![Screenshot_20240305_215223](https://github.com/Darshan6069/platformconverter/assets/138776334/e066b51a-d4cb-4726-af9f-3c4ad85b99f6)
 ![Screenshot_20240305_215219](https://github.com/Darshan6069/platformconverter/assets/138776334/9f0f3f5f-5bcb-48e3-bde6-a7e949505500)
 ![Screenshot_20240305_215214](https://github.com/Darshan6069/platformconverter/assets/138776334/85b5fd59-f808-4845-9476-e96527f76c96)
 ![Screenshot_20240305_215209](https://github.com/Darshan6069/platformconverter/assets/138776334/74ae05d4-03b3-4e33-9a9a-46e4018cc4e7)
